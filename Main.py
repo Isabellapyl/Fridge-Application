@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import random
 
 # Constants
-WEATHER_API_KEY = 'f17d0ee637c6ba466d1e9442d3722279'
-NEWS_API_KEY = '9fedd9f8c5934c9dbf650bb3f4e95766'
+WEATHER_API_KEY = 'Inset weather api key here'
+NEWS_API_KEY = 'insert news api key here'
 
 # Initialize the main Tkinter application
 root = tk.Tk()
