@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt  # Import pyplot from matplotlib to create graph
 import random  # Import random for random shuffling and selections
 
 # Constants to store API keys for weather and news services
-WEATHER_API_KEY = 'WEATHER.API.KEY'  # API key for weather service
-NEWS_API_KEY = 'NEWS.API.KEY'  # API key for news service
+WEATHER_API_KEY = 'f17d0ee637c6ba466d1e9442d3722279'  # API key for weather service
+NEWS_API_KEY = '9fedd9f8c5934c9dbf650bb3f4e95766'  # API key for news service
 
 # Initialize the main Tkinter application
 root = tk.Tk()  # Create the main window using Tk()
